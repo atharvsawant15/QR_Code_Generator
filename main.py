@@ -6,7 +6,7 @@ from PIL import Image,ImageTk   #------------will convert in image form---------
 from resizeimage import resizeimage #---------use for resizing the image----------------
 
 
-class Qr_Generator: #------------class has been used------------------
+class Qr_Generator: #------------class has been used----------------------
 
 
     def __init__(self, root):
