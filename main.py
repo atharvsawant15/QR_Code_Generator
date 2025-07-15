@@ -2,7 +2,7 @@
 from logging import root
 from tkinter import *          #----------tkinter use for creating an interferance window-------------
 import qrcode as qr             #----------which will create qr code----------------
-from PIL import Image,ImageTk   #------------will convert in image form--------------
+from PIL import Image,ImageTk   #------------will convert in image form---------------
 from resizeimage import resizeimage #---------use for resizing the image----------------
 
 
